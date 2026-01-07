@@ -1,0 +1,11 @@
+{
+  "name": "terbang",
+  "framework": "nextjs",
+  "language": "typescript",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run dev",
+  "domain": "hannaeileenproject",
+  "email": "24523247@students.uii.ac.id",
+  "secretKey": "imuii_942cd1c9b18f4f45840e1c38693dcd4f61b137ccec6b6ccba830e5fb5b443563",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/hannaeileenproject-40d4711a.git"
+}
